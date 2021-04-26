@@ -7,6 +7,7 @@ Diabetes and Heart attack Predictor using Streamlit
    <li> Accuracy Achieved: 86% </li>
    <li> how to run a streamlit app </li>
          <i> <p> streamlit run app.py <p><i>
+           <h3> Project deployment link:https://healthpredicton.herokuapp.com/ </h3>
   <ul>
 <h4> Diabetes and heart attack are both common problems which are unprecedented, But early predictions can alert us taking measures to prevent  </h4>
     
