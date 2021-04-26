@@ -160,7 +160,7 @@ def heart():
             st.write(' # There is no chance of heart attack in near future ')
         else:
             st.write(' # You might get heart attack consult Doctor Please......')
-    
+    st.write('praneeth kanchanakuntla') 
 if __name__=='__main__':
     st.title('  Health care prediction using Machine Learning')
     st.text('\n')
@@ -185,7 +185,7 @@ if __name__=='__main__':
         st.write("AI will effect Physicians and hosipitals,as it will play a key role in clinical decision support,enabling eariler indentification of diseases, and tailor treatment plans to optimal outcomes.")
         st.write('ML models are feeded with the appropriate data and trained to classify the result. ')
         st.write('Medical Imaging and  Diagnostics are used by pathologist, Raidologist to make quicker  and accurate  predictions')
-
+   
        
         
 #@st.cache()
