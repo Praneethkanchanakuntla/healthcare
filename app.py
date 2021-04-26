@@ -180,9 +180,7 @@ if __name__=='__main__':
         diabetes()
     else:
         #rep=st.sidebar.selectbox('home',['Home','about'])
-        
-        image=Image.open('h.png')
-        st.image(image)
+       
         st.write('Machine Learning in health care revolutionized medicine. Machine learning brought health care at tips of hands to the people. Machine Learning and Deep Learning models helps docotors and radiologist to get the better understanding of diesae by gaining insights  and by predicting the diesases by taking symtops into consideration.')
         st.write("AI will effect Physicians and hosipitals,as it will play a key role in clinical decision support,enabling eariler indentification of diseases, and tailor treatment plans to optimal outcomes.")
         st.write('ML models are feeded with the appropriate data and trained to classify the result. ')
