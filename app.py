@@ -169,7 +169,7 @@ if __name__=='__main__':
     #st.write('health care always been important to people , by machine learning and deep learning we have ease of access in health care.we truly belive prediction of diease at early stage and health care now at their hands we welcome our ml model predicto')
     check=st.sidebar.selectbox('what to predict',['Home','Diabetes','Heart'])
     if check=='Heart':
-        file=open("heart.pkl","rb")
+        file=open("Heart.pkl","rb")
         classifier=pickle.load(file)
         file.close()
         heart()
