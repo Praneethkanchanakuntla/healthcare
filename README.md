@@ -16,5 +16,5 @@ Disease Predictor using streamlit
          <i> <p> streamlit run app.py <p><i>
  
    
-copyrights by [MIT] &c MIT   
+ &c; MIT   
     
