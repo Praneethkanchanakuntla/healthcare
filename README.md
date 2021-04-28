@@ -4,9 +4,9 @@ health care predictor using streamlit
 
 <h3> Project Insights </h3>
 <p> The folllowing can be predicted in this Project <p>
-   <i> diabetes <i>
-    <i> heart attack predictor <i>
-     <i> stroke predictor <i>
+   <i> diabetes <i> <br>
+    <i> heart attack predictor <i> <br>
+     <i> stroke predictor <i> <br>
 <ul>
    <li> Algorithm used: Random Forest Classifier </li>
    <li> how to run a streamlit app </li>
