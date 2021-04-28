@@ -9,6 +9,7 @@ Disease Predictor using streamlit
    <li><i> diabetes <i> 
    <li> <i> heart attack predictor <i> 
     <li><i> stroke predictor <i> 
+       <br> 
    <li> Algorithm used: Random Forest Classifier 
    <li> how to run a streamlit app 
          <i> <p> streamlit run app.py <p><i>
@@ -17,13 +18,13 @@ Disease Predictor using streamlit
 <h4> Requirements </h4>
      <ul>
     <li> Python 
-     <li> seaborn 
-      <i>  <p> seaborn for visualization <p><i>
-      <li> streamlit for deployment  
-         <p> pip install streamlit <p>
-       <li>sklearn  
-        <li>Pandas 
-          <li>numpy 
+    <li> seaborn 
+     <i> <p> seaborn for visualization <p><i>
+     <li>streamlit for deployment  
+     <p> pip install streamlit <p>
+     <li>sklearn  
+     <li>Pandas 
+     <li>numpy 
            
  
         
