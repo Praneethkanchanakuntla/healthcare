@@ -12,8 +12,7 @@ Disease Predictor using streamlit
    <li> Algorithm used: Random Forest Classifier </li>
    <li> how to run a streamlit app </li>
          <i> <p> streamlit run app.py <p><i>
-           <h3> Project deployment link:https://healthpredicton.herokuapp.com/ </h3>
-  </ul>
+   
       
 <h4> Requirements </h4>
      <ul>
@@ -22,8 +21,11 @@ Disease Predictor using streamlit
       <i>  <p> seaborn for visualization <p><i>
       <li> streamlit for deployment  <\li>
          <p> pip install streamlit <p>
-       <li>sklearn <\li>  
-          </ul>
+       <li>sklearn <\li> 
+        <li>Pandas <\li>
+          <li>numpy <\li>
+           
+ 
         
    
      
