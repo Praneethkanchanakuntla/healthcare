@@ -9,12 +9,11 @@ Disease Predictor using streamlit
    <li><i> diabetes <i> 
    <li> <i> heart attack predictor <i> 
     <li><i> stroke predictor <i> 
-      
+     <P>------------------------------<P> 
      
    <li> Algorithm used: Random Forest Classifier 
    <li> how to run a streamlit app 
          <i> <p> streamlit run app.py <p><i>
  
    
- &c; MIT   
     
