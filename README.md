@@ -9,5 +9,16 @@ Diabetes and Heart attack Predictor using Streamlit
          <i> <p> streamlit run app.py <p><i>
            <h3> Project deployment link:https://healthpredicton.herokuapp.com/ </h3>
   <ul>
-<h4> Diabetes and heart attack are both common problems which are unprecedented, But early predictions can alert us taking measures to prevent  </h4>
+<h4> Requirements </h4>
+     <ul>
+    <li> Python <\li>
+     <li> seaborn <\li>
+      <i>  <p> seaborn for visualization <p><i>
+      <li> streamlit for deployment  <\li>
+         <p> pip install streamlit <p>
+       <li>sklearn <\li>
+        
+         
+   
+     
     
