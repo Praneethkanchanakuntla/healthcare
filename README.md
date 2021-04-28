@@ -14,21 +14,7 @@ Disease Predictor using streamlit
    <li> Algorithm used: Random Forest Classifier 
    <li> how to run a streamlit app 
          <i> <p> streamlit run app.py <p><i>
-   
-      
-<h4> Requirements </h4>
-     <ul>
-    <li> Python 
-    <li> seaborn 
-     <i> <p> seaborn for visualization <p><i>
-     <li>streamlit for deployment  
-     <p> pip install streamlit <p>
-     <li>sklearn  
-     <li>Pandas 
-     <li>numpy 
-           
  
-        
    
-     
+copyrights by [MIT] &c MIT   
     
