@@ -1,14 +1,19 @@
 # healthcare predicton
-Diabetes and Heart attack Predictor using Streamlit
+health care predictor using streamlit
+
 
 <h3> Project Insights </h3>
+<p> The folllowing can be predicted in this Project <p>
+   <i> diabetes <i>
+    <i> heart attack predictor <i>
+     <i> stroke predictor <i>
 <ul>
    <li> Algorithm used: Random Forest Classifier </li>
-   <li> Accuracy Achieved: 86% </li>
    <li> how to run a streamlit app </li>
          <i> <p> streamlit run app.py <p><i>
            <h3> Project deployment link:https://healthpredicton.herokuapp.com/ </h3>
   <ul>
+      
 <h4> Requirements </h4>
      <ul>
     <li> Python <\li>
@@ -16,9 +21,8 @@ Diabetes and Heart attack Predictor using Streamlit
       <i>  <p> seaborn for visualization <p><i>
       <li> streamlit for deployment  <\li>
          <p> pip install streamlit <p>
-       <li>sklearn <\li>
+       <li>sklearn <\li>    
         
-         
    
      
     
