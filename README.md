@@ -1,9 +1,14 @@
 # Disease predicton
 Disease Predictor using streamlit
-
+<h4> project deployment link:</h4>
+https://healthpredicton.herokuapp.com/
 
 <h3> Project Insights </h3>
 <p> The folllowing can be predicted in this Project <p>
+<h3> Datasets </h3>
+Heart attack predictor:<a href="https://www.kaggle.com/imnikhilanand/heart-attack-prediction">heart dataset</a>
+diabetes prediction:<a href="https://www.kaggle.com/uciml/pima-indians-diabetes-database">diabetes dataset</a>
+stroke predictor:<a href="https://www.kaggle.com/fedesoriano/stroke-prediction-dataset">stroke dataset</a>
    
 <ul>
    <li><i> diabetes <i> 
