@@ -5,7 +5,7 @@ https://healthpredicton.herokuapp.com/
 
 
 <h3> Datasets </h3>
-prediction| Dataset
+prediction    | Dataset
 ------------ | -------------
 Diabetes | https://www.kaggle.com/uciml/pima-indians-diabetes-database- automatic![diabetes]("https://www.kaggle.com/uciml/pima-indians-diabetes-database")
 Heart attack | https://www.kaggle.com/imnikhilanand/heart-attack-prediction -automatic![heart attack]("https://www.kaggle.com/imnikhilanand/heart-attack-prediction")
