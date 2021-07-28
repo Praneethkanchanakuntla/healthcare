@@ -13,8 +13,10 @@ https://healthpredicton.herokuapp.com/
 |Stroke       |[Stroke](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)|
 
 
-<p> how to run a streamlit app <p>
-<i> <p> streamlit run app.py <p><i>
+<p> running a Streamlit app <p>
+```python
+ Streamlit run app.py
+```
  
    
     
