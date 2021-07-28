@@ -3,10 +3,15 @@ Disease Predictor using streamlit
 <h4> project deployment link:</h4>
 https://healthpredicton.herokuapp.com/
 
+
 <h3> Datasets </h3>
-Heart attack predictor:<a href="https://www.kaggle.com/imnikhilanand/heart-attack-prediction">heart dataset</a><br/>
-diabetes prediction:<a href="https://www.kaggle.com/uciml/pima-indians-diabetes-database">diabetes dataset</a><br/>
-stroke predictor:<a href="https://www.kaggle.com/fedesoriano/stroke-prediction-dataset">stroke dataset</a><br/>
+prediction| Dataset
+------------ | -------------
+Diabetes | https://www.kaggle.com/uciml/pima-indians-diabetes-database- automatic![diabetes]("https://www.kaggle.com/uciml/pima-indians-diabetes-database")
+Heart attack | https://www.kaggle.com/imnikhilanand/heart-attack-prediction -automatic![heart attack]("https://www.kaggle.com/imnikhilanand/heart-attack-prediction")
+Stroke | https://www.kaggle.com/fedesoriano/stroke-prediction-dataset -automatic![Stroke]("https://www.kaggle.com/fedesoriano/stroke-prediction-dataset")
+
+
 <p> how to run a streamlit app <p>
 <i> <p> streamlit run app.py <p><i>
  
