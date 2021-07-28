@@ -1,7 +1,11 @@
 # Disease predicton
-Disease Predictor using streamlit
+
 <h4> project deployment link:</h4>
+```
 https://healthpredicton.herokuapp.com/
+
+```
+
 
 ![AI in healthCare](https://github.com/Praneethkanchanakuntla/healthcare/blob/main/photo2.png)
 <h3> Datasets </h3>
