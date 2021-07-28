@@ -16,6 +16,14 @@
 |Stroke       |[Stroke](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)|
 
 
+
+<p> download Streamlit <p>
+ 
+ ```
+ pip install streamlit
+ 
+ ```
+ 
 <p> running a Streamlit app <p>
  
 ```
