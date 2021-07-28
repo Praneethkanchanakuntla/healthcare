@@ -17,7 +17,7 @@
 
 
 
-<p> download Streamlit <p>
+<p> Download Streamlit <p>
  
  ```
  pip install streamlit
