@@ -24,7 +24,7 @@
  
  ```
  
-<p> running a Streamlit app <p>
+<p> Running a Streamlit app <p>
  
 ```
 
