@@ -8,7 +8,7 @@ https://healthpredicton.herokuapp.com/
 
 |prediction   | Dataset|
 |---|---|
-|Diabetes     | [diabetes]|
+|Diabetes     | [diabetes](https://www.kaggle.com/uciml/pima-indians-diabetes-database)|
 |Heart attack |[heart attack]|
 |Stroke       |[Stroke]|
 
