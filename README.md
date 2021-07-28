@@ -14,7 +14,8 @@ https://healthpredicton.herokuapp.com/
 
 
 <p> running a Streamlit app <p>
-```python
+```
+ python
  Streamlit run app.py
 ```
  
