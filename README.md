@@ -5,11 +5,11 @@ https://healthpredicton.herokuapp.com/
 
 
 <h3> Datasets </h3>
-prediction    | Dataset
------------- | -------------
-Diabetes | https://www.kaggle.com/uciml/pima-indians-diabetes-database- automatic![diabetes]("https://www.kaggle.com/uciml/pima-indians-diabetes-database")
-Heart attack | https://www.kaggle.com/imnikhilanand/heart-attack-prediction -automatic![heart attack]("https://www.kaggle.com/imnikhilanand/heart-attack-prediction")
-Stroke | https://www.kaggle.com/fedesoriano/stroke-prediction-dataset -automatic![Stroke]("https://www.kaggle.com/fedesoriano/stroke-prediction-dataset")
+prediction   | Dataset
+------------ | -------------------------------------------------------------------------
+Diabetes     |   [diabetes]("https://www.kaggle.com/uciml/pima-indians-diabetes-database")
+Heart attack | [heart attack]("https://www.kaggle.com/imnikhilanand/heart-attack-prediction")
+Stroke       | [Stroke]("https://www.kaggle.com/fedesoriano/stroke-prediction-dataset")
 
 
 <p> how to run a streamlit app <p>
