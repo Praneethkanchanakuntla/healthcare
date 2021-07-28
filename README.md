@@ -9,8 +9,8 @@ https://healthpredicton.herokuapp.com/
 |prediction   | Dataset|
 |---|---|
 |Diabetes     | [diabetes](https://www.kaggle.com/uciml/pima-indians-diabetes-database)|
-|Heart attack |[heart attack]|
-|Stroke       |[Stroke]|
+|Heart attack |[heart attack](https://www.kaggle.com/rashikrahmanpritom/heart-attack-analysis-prediction-dataset)|
+|Stroke       |[Stroke](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset)|
 
 
 <p> how to run a streamlit app <p>
