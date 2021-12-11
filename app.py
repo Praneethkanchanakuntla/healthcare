@@ -83,10 +83,12 @@ def stroke():
             st.write(' # There is no chance of stroke in near future ')
         else:
             st.write(' # You might get  stroke consult Doctor Please......')
+            st.write(' ')
             st.header('Symptoms')
             sy={'symptoms':['Trouble speaking and understanding what others are saying','Paralysis or numbness of the face, arm or leg','Problems seeing in one or both eyes','Headache','Trouble walking']}
             st.table(sy)
             st.title('Prevention')
+            st.write(' ')
             pre={'prevention':['Controlling high blood pressure','Lowering the amount of cholesterol and saturated fat in your diet','Quitting tobacco use','Managing diabetes','Maintaining a healthy weight','Exercising regularly.','Avoiding Drugs']}
             st.table(pre)
             
@@ -153,6 +155,7 @@ def diabetes():
         else:
             st.write(' # You might have diabetes consult Doctor Please......')
             st.title('Symptoms')
+            st.write(' ')
             data={'symptoms':['Increased thirst','Frequent urination','Extreme hunger','Unexplained weight loss',
                              'Fatigue','Blurred vision','Slow-healing sores','Frequent infections']}
             
@@ -263,10 +266,12 @@ def heart():
             st.write(' # There is no chance of heart attack in near future ')
         else:
             st.write(' # You might get heart attack consult Doctor Please......')
+            st.write(' ')
             st.title('Symptoms')
             swe={'Symptoms':['Pressure, tightness, pain, or a squeezing or aching sensation in your chest or arms that may spread to your neck, jaw or back','Nausea, indigestion, heartburn or abdominal pain','Shortness of breath','Cold sweat','Fatigue','Lightheadedness or sudden dizziness']}
             st.table(swe)
-            st.write('Risk Factors')
+            st.write(' ')
+            st.header('Risk Factors')
             ses={'Risk Factors':['High Blood Pressure','Tobacco','Age >45','High blood cholesterol','Obesity','Diabetes','Family history of heart attacks','Stress','drug use']}
             st.table(ses)
             
