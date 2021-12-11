@@ -1,6 +1,6 @@
 import streamlit as st
 import pickle
-from PIL import Image
+import pandas as pd
 def predic(s1,s2,s3,s4,s5,s6,s7,s8,s9,s10):
     '''
     -name:s1
@@ -83,6 +83,13 @@ def stroke():
             st.write(' # There is no chance of stroke in near future ')
         else:
             st.write(' # You might get  stroke consult Doctor Please......')
+            st.header('Symptoms')
+            sy={'symptoms':['Trouble speaking and understanding what others are saying','Paralysis or numbness of the face, arm or leg','Problems seeing in one or both eyes','Headache','Trouble walking']}
+            st.table(sy)
+            st.title('Prevention')
+            pre={'prevention':['Controlling high blood pressure','Lowering the amount of cholesterol and saturated fat in your diet','Quitting tobacco use','Managing diabetes','Maintaining a healthy weight','Exercising regularly.','Avoiding Drugs']}
+            st.table(pre)
+            
 
 def predicto(d1,d2,d3,d4,d5,d6,d7,d8):
     '''
@@ -142,8 +149,21 @@ def diabetes():
         result=predicto(d1,d2,d3,d4,d5,d6,d7,d8)
         if result==0:
             st.write(' # You dont have diabetes ')
+            
         else:
             st.write(' # You might have diabetes consult Doctor Please......')
+            st.title('Symptoms')
+            data={'symptoms':['Increased thirst','Frequent urination','Extreme hunger','Unexplained weight loss',
+                             'Fatigue','Blurred vision','Slow-healing sores','Frequent infections']}
+            
+            st.table(data)
+            html_tem="""<div style='background-color:palegreen;padding:13px'>
+            <h1 style='color:black;text-align:center;'>Diet</h1></div>"""
+            st.markdown(html_tem,unsafe_allow_html=True)
+            d={'Healthy carbohydrates':['Fruits','Vegetables','Whole grains','beans and peas','milk and cheese'],'Fiber rich foods':['Whole grains','nuts','fruits','vegetables','legumes'],'Foods to avoid':['Saturated fats','Trans fat','Cholesterol','Sodium','oils']}
+            dat=pd.DataFrame.from_dict(d)
+            st.table(dat)
+            
     
     
 def predict_attack(h1,h2,h3,h4,h5,h6,h7,h8,h9,h10,h11,h12,h13):
@@ -243,6 +263,13 @@ def heart():
             st.write(' # There is no chance of heart attack in near future ')
         else:
             st.write(' # You might get heart attack consult Doctor Please......')
+            st.title('Symptoms')
+            swe={'Symptoms':['Pressure, tightness, pain, or a squeezing or aching sensation in your chest or arms that may spread to your neck, jaw or back','Nausea, indigestion, heartburn or abdominal pain','Shortness of breath','Cold sweat','Fatigue','Lightheadedness or sudden dizziness']}
+            st.table(swe)
+            st.write('Risk Factors')
+            ses={'Risk Factors':['High Blood Pressure','Tobacco','Age >45','High blood cholesterol','Obesity','Diabetes','Family history of heart attacks','Stress','drug use']}
+            st.table(ses)
+            
     
 if __name__=='__main__':
     st.title('  Health care prediction using Machine Learning')
